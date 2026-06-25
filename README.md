@@ -1,2 +1,5 @@
-# samantaferro.github.io
-Executive Portfolio | Supply Chain • Business Analytics • Process Excellence
+# Samanta Ferro - Executive Portfolio
+
+Professional portfolio website for Supply Chain, Business Analytics and Process Excellence.
+
+Published with GitHub Pages.
